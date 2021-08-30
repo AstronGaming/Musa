@@ -25,3 +25,18 @@ ul {
 
   li a:hover {
     background-color: #111111;}
+  
+    h4 {
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background-color: thistle;
+      font-size: 40px;
+      font-style: unset;
+      text-decoration-style: solid;
+      text-align: center;
+      
+    }
+    h4:hover{
+      background-color: white;
+    }
